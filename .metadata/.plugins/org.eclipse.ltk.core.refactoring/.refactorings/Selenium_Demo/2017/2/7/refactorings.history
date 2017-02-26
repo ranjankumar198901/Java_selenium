@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;script.java&apos; to &apos;Selenium_Demo/src/Encapsulation&apos;&#x0D;&#x0A;- Original project: &apos;Selenium_Demo&apos;&#x0D;&#x0A;- Destination element: &apos;Selenium_Demo/src/Encapsulation&apos;&#x0D;&#x0A;- Original element: &apos;Encapsulation.script.java&apos;" description="Copy compilation unit" destination="/src&lt;Encapsulation" element1="/src&lt;Encapsulation{script.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1487356010166" units="1" version="1.0"/>
+</session>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;specifiedOptionListBox.Demo1_searchInListBox.java&apos; to &apos;Demo1searchInListBox.java&apos;&#x0D;&#x0A;- Original project: &apos;Selenium_Demo&apos;&#x0D;&#x0A;- Original element: &apos;specifiedOptionListBox.Demo1_searchInListBox.java&apos;&#x0D;&#x0A;- Renamed element: &apos;specifiedOptionListBox.Demo1searchInListBox.java&apos;" description="Rename compilation unit &apos;Demo1_searchInListBox.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;specifiedOptionListBox{Demo1_searchInListBox.java" name="Demo1searchInListBox.java" references="false" stamp="1486528220152" version="1.0"/>
+</session>

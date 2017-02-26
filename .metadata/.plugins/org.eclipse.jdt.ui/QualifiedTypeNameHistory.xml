@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.openqa.selenium.ie.InternetExplorerDriver"/>
+<fullyQualifiedTypeName name="com.gargoylesoftware.htmlunit.javascript.host.media.webkitAudioContext"/>
+<fullyQualifiedTypeName name="qsp.Demo7"/>
+<fullyQualifiedTypeName name="java.util.concurrent.TimeUnit"/>
+<fullyQualifiedTypeName name="com.sun.jna.Structure.FFIType.size_t"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="java.awt.print.Printable"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.chrome.ChromeDriver"/>
+<fullyQualifiedTypeName name="java.lang.Integer"/>
+<fullyQualifiedTypeName name="java.lang.NumberFormatException"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.By"/>
+<fullyQualifiedTypeName name="org.eclipse.jetty.util.annotation.Name"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.WebElement"/>
+<fullyQualifiedTypeName name="org.apache.http.auth.UsernamePasswordCredentials"/>
+<fullyQualifiedTypeName name="org.apache.tools.ant.taskdefs.Sleep"/>
+<fullyQualifiedTypeName name="org.junit.rules.Timeout"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.WebDriver"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.support.FindBy"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.firefox.FirefoxDriver"/>
+<fullyQualifiedTypeName name="Encapsulation.loginpage2"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.support.PageFactory"/>
+</qualifiedTypeNameHistroy>

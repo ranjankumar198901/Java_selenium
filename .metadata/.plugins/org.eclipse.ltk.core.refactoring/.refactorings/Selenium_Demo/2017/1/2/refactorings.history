@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Selenium_Demo/Attachments&apos; to &apos;Software&apos;" description="Rename resource &apos;Attachments&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Attachments" name="Software" stamp="1483893623972" updateReferences="true"/>
+</session>
