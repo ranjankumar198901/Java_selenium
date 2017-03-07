@@ -1,7 +1,0 @@
-package POM;
-
-
-
-public class login(String un,Strign pw)
-{
-	username.sendkey(un);
